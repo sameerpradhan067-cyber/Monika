@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monika/static/css/main.f855e6bc.css",
+    "main.js": "/Monika/static/js/main.f14ec07b.js",
+    "static/js/453.e5b89353.chunk.js": "/Monika/static/js/453.e5b89353.chunk.js",
+    "index.html": "/Monika/index.html",
+    "main.f855e6bc.css.map": "/Monika/static/css/main.f855e6bc.css.map",
+    "main.f14ec07b.js.map": "/Monika/static/js/main.f14ec07b.js.map",
+    "453.e5b89353.chunk.js.map": "/Monika/static/js/453.e5b89353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f14ec07b.js"
+  ]
+}
